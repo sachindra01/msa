@@ -1,0 +1,44 @@
+{
+    "success": true,
+    "data": [
+      {
+        "id": 28,
+        "report_status": "replied",
+        "label": "確認済",
+        "label_en": "Replied",
+        "user_id": 74,
+        "reply_date": "2022-01-24",
+        "report_date": "2022-01-24",
+        "earning": "10000",
+        "gross_profit": "20000",
+        "expenses": "30000",
+        "month_goal": "1",
+        "ask_host": "2",
+        "next_month_goal": "3",
+        "earning_reply": null,
+        "gross_profit_reply": null,
+        "expenses_reply": null,
+        "month_goal_reply": null,
+        "ask_host_reply": null,
+        "next_month_goal_reply": "replied again",
+        "client_reply_seen": true,
+        "label_member": "確認済",
+        "label_en_member": "Confirmed"
+      }
+    ],
+    "report_statuses": {
+      "new": {
+        "label": "未返信",
+        "label_en": "New"
+      },
+      "replied": {
+        "label": "確認済",
+        "label_en": "Replied"
+      },
+      "hold": {
+        "label": "要対応",
+        "label_en": "Hold"
+      }
+    },
+    "code": 200
+  }

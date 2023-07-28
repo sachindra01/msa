@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "data": {
+      "new": {
+        "count": 0,
+        "label": "未返信",
+        "label_en": "New"
+      },
+      "replied": {
+        "count": 26,
+        "label": "確認済",
+        "label_en": "Replied"
+      },
+      "hold": {
+        "count": 0,
+        "label": "要対応",
+        "label_en": "Hold"
+      },
+      "all": {
+        "count": 26,
+        "label": "すべて",
+        "label_en": "All"
+      }
+    },
+    "all_count": 26,
+    "code": 200
+  }

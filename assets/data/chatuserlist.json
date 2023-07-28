@@ -1,0 +1,226 @@
+{
+    "success": true,
+    "data": [
+      {
+        "report_status": "replied",
+        "label": "確認済",
+        "label_en": "Replied",
+        "user_id": 233,
+        "nickname": "ユーザー名1008++",
+        "designation": null,
+        "show_age": true,
+        "image_url": "https://app.m-sa.jp/live/backend/public/media/790/conversions/4B7BD35C-C7DA-42AB-9C89-6B0DF07301C8-thumb.jpg",
+        "twitter_link": null
+      },
+      {
+        "report_status": "replied",
+        "label": "確認済",
+        "label_en": "Replied",
+        "user_id": 272,
+        "nickname": "premium 1000",
+        "designation": null,
+        "show_age": false,
+        "image_url": "https://app.m-sa.jp/live/backend/public/images/no_image.png",
+        "twitter_link": null
+      },
+      {
+        "report_status": "replied",
+        "label": "確認済",
+        "label_en": "Replied",
+        "user_id": 288,
+        "nickname": "イケス テスト",
+        "designation": null,
+        "show_age": true,
+        "image_url": "https://app.m-sa.jp/live/backend/public/avatars/avatar_3.png",
+        "twitter_link": null
+      },
+      {
+        "report_status": "replied",
+        "label": "確認済",
+        "label_en": "Replied",
+        "user_id": 240,
+        "nickname": "テストユーザー",
+        "designation": "楽天せどり",
+        "show_age": true,
+        "image_url": "https://app.m-sa.jp/live/backend/public/avatars/avatar_2.png",
+        "twitter_link": "ikeko8888"
+      },
+      {
+        "report_status": "replied",
+        "label": "確認済",
+        "label_en": "Replied",
+        "user_id": 216,
+        "nickname": "せどりプラス２",
+        "designation": null,
+        "show_age": false,
+        "image_url": "https://app.m-sa.jp/live/backend/public/media/750/conversions/6F367C27-7943-4090-873D-27417954FC9D-thumb.jpg",
+        "twitter_link": "@KoalaOya_WebD"
+      },
+      {
+        "report_status": "replied",
+        "label": "確認済",
+        "label_en": "Replied",
+        "user_id": 226,
+        "nickname": "イケス",
+        "designation": null,
+        "show_age": true,
+        "image_url": "https://app.m-sa.jp/live/backend/public/avatars/avatar_3.png",
+        "twitter_link": null
+      },
+      {
+        "report_status": "replied",
+        "label": "確認済",
+        "label_en": "Replied",
+        "user_id": 241,
+        "nickname": "premium",
+        "designation": "prem",
+        "show_age": true,
+        "image_url": "https://app.m-sa.jp/live/backend/public/avatars/avatar_4.png",
+        "twitter_link": "https://www.twitter.com"
+      },
+      {
+        "report_status": "replied",
+        "label": "確認済",
+        "label_en": "Replied",
+        "user_id": 212,
+        "nickname": "テストユーザー名0928",
+        "designation": "0928サドラー",
+        "show_age": true,
+        "image_url": "https://app.m-sa.jp/live/backend/public/avatars/avatar_2.png",
+        "twitter_link": "@Eminem"
+      },
+      {
+        "report_status": "replied",
+        "label": "確認済",
+        "label_en": "Replied",
+        "user_id": 206,
+        "nickname": "テストユーザー名0922変更後",
+        "designation": "プロセド0922",
+        "show_age": true,
+        "image_url": "https://app.m-sa.jp/live/backend/public/avatars/avatar_1.png",
+        "twitter_link": "Eminem"
+      },
+      {
+        "report_status": "replied",
+        "label": "確認済",
+        "label_en": "Replied",
+        "user_id": 269,
+        "nickname": "てす",
+        "designation": null,
+        "show_age": false,
+        "image_url": "https://app.m-sa.jp/live/backend/public/images/no_image.png",
+        "twitter_link": null
+      },
+      {
+        "report_status": "replied",
+        "label": "確認済",
+        "label_en": "Replied",
+        "user_id": 268,
+        "nickname": "ああ",
+        "designation": null,
+        "show_age": false,
+        "image_url": "https://app.m-sa.jp/live/backend/public/images/no_image.png",
+        "twitter_link": null
+      },
+      {
+        "report_status": "replied",
+        "label": "確認済",
+        "label_en": "Replied",
+        "user_id": 284,
+        "nickname": "イケス",
+        "designation": null,
+        "show_age": true,
+        "image_url": "https://app.m-sa.jp/live/backend/public/images/no_image.png",
+        "twitter_link": null
+      },
+      {
+        "report_status": "replied",
+        "label": "確認済",
+        "label_en": "Replied",
+        "user_id": 261,
+        "nickname": "ユーザー名",
+        "designation": "ポイントせどり",
+        "show_age": true,
+        "image_url": "https://app.m-sa.jp/live/backend/public/avatars/avatar_3.png",
+        "twitter_link": "テスト"
+      },
+      {
+        "report_status": "replied",
+        "label": "確認済",
+        "label_en": "Replied",
+        "user_id": 282,
+        "nickname": "イケス0113",
+        "designation": null,
+        "show_age": true,
+        "image_url": "https://app.m-sa.jp/live/backend/public/avatars/avatar_3.png",
+        "twitter_link": null
+      },
+      {
+        "report_status": "replied",
+        "label": "確認済",
+        "label_en": "Replied",
+        "user_id": 280,
+        "nickname": "sedoro msa",
+        "designation": "thank",
+        "show_age": false,
+        "image_url": "https://app.m-sa.jp/live/backend/public/media/1067/conversions/68AC6E1C-F0F8-4933-8F63-D444777AAD66-thumb.jpg",
+        "twitter_link": null
+      },
+      {
+        "report_status": "replied",
+        "label": "確認済",
+        "label_en": "Replied",
+        "user_id": 264,
+        "nickname": "ずげむ",
+        "designation": "楽天仕入れい",
+        "show_age": true,
+        "image_url": "https://app.m-sa.jp/live/backend/public/avatars/avatar_1.png",
+        "twitter_link": null
+      },
+      {
+        "report_status": "replied",
+        "label": "確認済",
+        "label_en": "Replied",
+        "user_id": 74,
+        "nickname": "--Rajani--",
+        "designation": "Er",
+        "show_age": true,
+        "image_url": "https://app.m-sa.jp/live/backend/public/avatars/avatar_6.png",
+        "twitter_link": "https://twitter.com"
+      },
+      {
+        "report_status": "replied",
+        "label": "確認済",
+        "label_en": "Replied",
+        "user_id": 267,
+        "nickname": "いけす",
+        "designation": "楽天",
+        "show_age": true,
+        "image_url": "https://app.m-sa.jp/live/backend/public/avatars/avatar_2.png",
+        "twitter_link": null
+      },
+      {
+        "report_status": "replied",
+        "label": "確認済",
+        "label_en": "Replied",
+        "user_id": 244,
+        "nickname": "あ",
+        "designation": null,
+        "show_age": false,
+        "image_url": "https://app.m-sa.jp/live/backend/public/media/801/conversions/090837F7-861A-4A1D-B769-4FC26502BE32-thumb.jpg",
+        "twitter_link": "miyaderatamashi"
+      },
+      {
+        "report_status": "replied",
+        "label": "確認済",
+        "label_en": "Replied",
+        "user_id": 143,
+        "nickname": "検証太郎",
+        "designation": "アプリ検証",
+        "show_age": false,
+        "image_url": "https://app.m-sa.jp/live/backend/public/media/569/conversions/B12C9861-A252-4D7E-8EA4-44F5071AC988-thumb.jpg",
+        "twitter_link": null
+      }
+    ],
+    "code": 200
+  }

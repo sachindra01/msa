@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268026304066",
+    "project_id": "sedori-salon-stg-app",
+    "storage_bucket": "sedori-salon-stg-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268026304066:android:36d87902bef9b1762affdb",
+        "android_client_info": {
+          "package_name": "com.yig.mi.sedori.stage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268026304066-2qjenr6sjhe0afi8otkqkh510hv33erh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNoLLpoDptl6LZdJdmV2USOVhUYI3s9hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268026304066-2qjenr6sjhe0afi8otkqkh510hv33erh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
